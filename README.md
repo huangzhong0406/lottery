@@ -1,6 +1,6 @@
 # 年会抽奖程序
 
-[demo](https://huangzhong0406.github.io/lottery/)
+[demo](https://huangzhong0406.github.io/lottery-19-2-28/)
 
 
 
